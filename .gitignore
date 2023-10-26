@@ -1,0 +1,8 @@
+# visualstudio
+.vscode/
+
+
+# virtual environment
+.virt/
+venv/
+env/
